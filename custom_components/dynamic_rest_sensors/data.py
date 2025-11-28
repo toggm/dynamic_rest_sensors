@@ -1,4 +1,4 @@
-"""Custom types for integration_blueprint."""
+"""Custom types for dynamic_rest_sensors."""
 
 from __future__ import annotations
 
